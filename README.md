@@ -2,7 +2,7 @@
 
 ## About
 
-This repo has been created to experiment with the GOV.UK Design System as well as other specific techologies such as Node, Nunjucks, Express and more.
+This repo has been created to experiment with the [GOV.UK Design System](https://design-system.service.gov.uk/) as well as other specific techologies such as Node, Nunjucks, Express and more.
 
 ## Quickstart
 
