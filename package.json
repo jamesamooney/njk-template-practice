@@ -14,5 +14,8 @@
   },
   "devDependencies": {
     "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "govuk-frontend": "^4.7.0"
   }
 }
