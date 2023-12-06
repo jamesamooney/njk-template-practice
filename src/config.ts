@@ -1,3 +1,5 @@
+import 'dotenv/config'
+
 function getOrThrow(variableName: string): string {
   const variableValue = process.env[variableName] ?? null
   if (variableValue === null) {
